@@ -2,7 +2,6 @@
 
 Request COVID-19 ("Application") is developed help the citizens of India request for Plasma, Oxygen, and Hospital Beds during these tough times. This Application requires the users to fill a form and post their request on the Request COVID-19 Twitter page.
 
-##Privacy Policy
 **Privacy Policy**
 
 Pratham Aggarwal built the Request COVID-19 app as a Free app. This SERVICE is provided by Pratham Aggarwal at no cost and is intended for use as is.
