@@ -1,15 +1,9 @@
 {
   "expo": {
-    "name": "request-covid19",
+    "name": "Request COVID-19",
     "slug": "request-covid19",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
